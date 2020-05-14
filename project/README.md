@@ -1,10 +1,9 @@
-# demo
+# project
 
-基于Mint-ui 的Vue项目
+基于Mint-ui 的Vue2.x项目
 
 ## Build Setup
 
-bash
 # install dependencies
 npm install
 npm install -g @vue/cli
