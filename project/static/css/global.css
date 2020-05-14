@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+}
+.mint-tabbar{
+  position: fixed;
+  bottom: 0;
+}
+.mint-cell-text {
+    font-weight: 400 ;
+    color: #5a5a5a ;
+    vertical-align: middle;
+    font-size: 14px ;
+}
